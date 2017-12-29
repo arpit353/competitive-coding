@@ -1,0 +1,6 @@
+SIGFPE may occur due to
+
+division by zero
+modulo operation by zero
+integer overflow (when the value you are trying to store exceeds the range) - trying using a bigger data type like long.
+SIFFPE is very easy to debug.

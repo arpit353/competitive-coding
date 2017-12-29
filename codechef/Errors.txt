@@ -1,0 +1,7 @@
+WA : Wrong Answer. The output your program generated doesn’t match the required output. Eg: You printed 100 instead of 8465 maybe? OR You printed the message “Enter the number: ” for convenience maybe? OR worse still, you forgot to write the printf( ) maybe?
+
+RTE: Run time error. Eg: Segmentation faults(Mostly caused when accessing array out of bounds), Floating point exception(little did you realize that later ‘b’ might be equal to ‘a’ and 345/(b-a) is absurd), etc.
+
+CTE : Compile time error. Eg: Syntax error (missed the ‘f’ in “printf” maybe?).
+
+TLE: Time limit exceeded. Eg: You submitted an O(n) solution to a problem which has to be solved in O(log(n)).
