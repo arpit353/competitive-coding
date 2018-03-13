@@ -1,0 +1,1 @@
+for checking the boundary we can use max(0,i-1) in condition statements so that if do not try to access negative indexes of array.
